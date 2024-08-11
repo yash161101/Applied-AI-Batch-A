@@ -26,7 +26,7 @@ Below, you'll find a list of topics covered along with links to relevant resourc
   - An interactive example explaining adversarial search through a Tic-Tac-Toe game. This resource includes an interface that shows how algorithms can be used to play optimally in adversarial environments.
   - To run this use the command `python runner.py`
 
-- **search_notes**: [Generic Search Algorithm Code and Implementation](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/search/search_notes.ipynb)
+- **search_notes**: [Search - Lecture Notes](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/search/search_notes.ipynb)
   - A collection of generic code snippets for implementing various search algorithms. This resource provides a foundational understanding of how to code search algorithms from scratch.
 
 Happy Coding!
