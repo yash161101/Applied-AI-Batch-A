@@ -1,4 +1,4 @@
-# Applied-AI-Batch-A
+# Applied AI - Batch A 🦾
 
 This repository contains lecture notes, code examples, and interactive demos for various topics in AI and programming demonstrated in class. 
 Below, you'll find a list of topics covered along with links to relevant resources.
