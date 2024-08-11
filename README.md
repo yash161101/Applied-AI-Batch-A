@@ -3,6 +3,11 @@
 This repository contains lecture notes, code examples, and interactive demos for various topics in AI and programming demonstrated in class. 
 Below, you'll find a list of topics covered along with links to relevant resources.
 
+## Setting up Environment 
+- Create a conda virtual environment: `conda create --name aai_code python=3.12`
+- Activate the enviroment: `conda activate aai_code`
+- Install requirements in environment: `pip install -r requirements.txt`
+
 ## Topics and Resources
 
 ### Topic 1: Object Oriented Programming
