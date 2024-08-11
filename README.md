@@ -1,6 +1,7 @@
 # Applied-AI-Batch-A
 
-Welcome to the Applied AI Batch A course! This repository contains lecture notes, code examples, and interactive demos for various topics in AI and programming demonstrated in class. Below, you'll find a list of topics covered along with links to relevant resources.
+This repository contains lecture notes, code examples, and interactive demos for various topics in AI and programming demonstrated in class. 
+Below, you'll find a list of topics covered along with links to relevant resources.
 
 ## Topics and Resources
 
@@ -16,12 +17,14 @@ Welcome to the Applied AI Batch A course! This repository contains lecture notes
 
 - **search_algo_demo**: [Search Algorithm Demo](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/search/search_algo_demo)
   - An interactive interface that creates a maze and visualizes how Depth-First Search (DFS), Breadth-First Search (BFS), and A* search algorithms work in action. This demo is designed to help you understand how these search algorithms operate in a controlled environment.
+  - To run this use `python > 3.12` and use the command `python main.py`
 
 - **map_example**: [Search Algorithms with a Map of Paris](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/search/map_example)
   - A practical example illustrating search algorithms applied to a real-world scenario using a map of the streets of Paris. This example demonstrates how search algorithms can be used to navigate and find paths in geographical data.
 
 - **tictactoe**: [Adversarial Search with Tic-Tac-Toe](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/search/tictactoe)
   - An interactive example explaining adversarial search through a Tic-Tac-Toe game. This resource includes an interface that shows how algorithms can be used to play optimally in adversarial environments.
+  - To run this use the command `python runner.py`
 
 - **search_notes**: [Generic Search Algorithm Code and Implementation](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/search/search_notes.ipynb)
   - A collection of generic code snippets for implementing various search algorithms. This resource provides a foundational understanding of how to code search algorithms from scratch.
