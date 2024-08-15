@@ -18,7 +18,7 @@ Below, you'll find a list of topics covered along with links to relevant resourc
 - **Kaggle Example - Titanic Problem**: [Titanic Problem Solved with OOP](https://www.kaggle.com/code/yash161101/topic-1-object-oriented-programming)
   - An example demonstrating how to apply Object Oriented Programming principles to solve the Titanic problem on Kaggle. This example showcases the practical application of OOP in data science and machine learning projects.
 
-### Topic 2: Search Algorithms
+### Topic 2: Search
 
 - **Lecture Notes**: [Search - Lecture Notes](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/search/search_notes.ipynb)
   - A collection of generic code snippets for implementing various search algorithms. This resource provides a foundational understanding of how to code search algorithms from scratch.
@@ -33,5 +33,10 @@ Below, you'll find a list of topics covered along with links to relevant resourc
 - **tictactoe**: [Adversarial Search with Tic-Tac-Toe](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/search/tictactoe)
   - An interactive example explaining adversarial search through a Tic-Tac-Toe game. This resource includes an interface that shows how algorithms can be used to play optimally in adversarial environments.
   - To run this use the command `python runner.py`
+
+### Topic 3: Knowledge
+- **knights**: [Knights and Knaves Problem](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/knowledge/knights)
+  - The Knights problem is based on the classic "Knights and Knaves" logic puzzles. In these puzzles, characters are either knights, who always tell the truth, or knaves, who always lie. The objective is to use propositional logic to determine the identity (knight or knave) of each character based on the statements they make. The AI uses a model-checking algorithm to evaluate the truthfulness of these statements and deduce the correct identities of the characters
+  - To run this use the command `python puzzle.py`
 
 Happy Coding!
