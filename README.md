@@ -39,4 +39,11 @@ Below, you'll find a list of topics covered along with links to relevant resourc
   - The Knights problem is based on the classic "Knights and Knaves" logic puzzles. In these puzzles, characters are either knights, who always tell the truth, or knaves, who always lie. The objective is to use propositional logic to determine the identity (knight or knave) of each character based on the statements they make. The AI uses a model-checking algorithm to evaluate the truthfulness of these statements and deduce the correct identities of the characters
   - To run this use the command `python puzzle.py`
 
+### Topic 4: Uncertainty
+- **Batman Network**: [Bayesian Networks Explained - Batman Example](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/uncertainty/bayesian_network.ipynb)
+  - An example using pomegranate library demonstrating how Bayesian Networks can be constructed and be used to create inferences and calculate probabilities of states.
+
+- **Markov Chain Demo**: [Markov Chain Demo - Stocks Example](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/uncertainty/markov_chain.ipynb)
+  - The code simulates stock price movements using a basic random walk model, with daily returns drawn from a normal distribution. It visualizes multiple simulations of stock price trajectories over time, demonstrating the variability and potential paths prices can take.
+
 Happy Coding!
