@@ -45,5 +45,14 @@ Below, you'll find a list of topics covered along with links to relevant resourc
 
 - **Markov Chain Demo**: [Markov Chain Demo - Stocks Example](https://github.com/yash161101/Applied-AI-Batch-A/blob/main/uncertainty/markov_chain.ipynb)
   - The code simulates stock price movements using a basic random walk model, with daily returns drawn from a normal distribution. It visualizes multiple simulations of stock price trajectories over time, demonstrating the variability and potential paths prices can take.
+  
+### Topic 5: Optimization
+- **Hospitals**: [Hill Climbing Explained - Hospitals Example]([https://github.com/yash161101/Applied-AI-Batch-A/blob/main/uncertainty/bayesian_network.ipynb](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/optimization/hospitals))
+  - An example demonstrating how Hill Climbing and Random Hill Climbing works by adding random houses to a grid and finding the optimized way to place n number of hospitals such that they are the closest to all the houses.
+  - To run this use the command `python hospitals.py`
+
+- **IPL Team Selection**: [Linear Programming - IPL Team Selection Example](https://github.com/yash161101/Applied-AI-Batch-A/tree/main/optimization/ipl_example)
+  - This code takes 20 random players and tries to maximize the team performance by keeping in mind the constraints such as budget, team balance and overseas limit to find the best posible team.
+  - To run this use the command `python ipl_team_selection.py`
 
 Happy Coding!
